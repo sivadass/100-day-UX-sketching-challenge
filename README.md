@@ -2,9 +2,15 @@
 
 The challenge is about building your own UX-related visual library, and also about creating a habit around sketching.
 
-### How It Works
+### Rules
 
-Krisztina Szerovay will send out 3 objects or concepts related to UX each day for 100 days, and the task is to create a sketch for them. She will also provide her own solutions for the previous day’s exercise. As a result of completing the challenge, you’re going to end up with 300 UX-related visuals drawn by yourself! And it only takes about 5 minutes a day.
+Sketch **3 concepts** related to UX each day for **100 days**.
+
+You can read more about the challenge [here](https://uxdesign.cc/ux-sketching-challenge-100-days-of-visual-library-building-580d5b102df6).
+
+### Join this Challenge
+
+This challenge is conducted by [Krisztina Szerovay],(https://twitter.com/krisztaszerovay), UX designer and online teacher. You can join this challenge by subscribing to her [newsletter](https://sketchingforux.com/).
 
 ### Progress
 
