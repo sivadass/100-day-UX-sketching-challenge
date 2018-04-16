@@ -14,7 +14,7 @@ This challenge is conducted by [Krisztina Szerovay],(https://twitter.com/kriszta
 
 ### Progress
 
-* [ ] [Day 1](sketches/day-1.jpg)
+* [x] [Day 1](sketches/day-1.jpg)
 * [ ] [Day 2](sketches/day-2.jpg)
 * [ ] [Day 3](sketches/day-3.jpg)
 * [ ] [Day 4](sketches/day-4.jpg)
